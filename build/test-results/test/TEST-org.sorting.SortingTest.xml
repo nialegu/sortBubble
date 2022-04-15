@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.sorting.SortingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-15T10:06:14" hostname="LAPTOP-QS28H6FN" time="0.053">
+<testsuite name="org.sorting.SortingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-15T10:17:27" hostname="LAPTOP-QS28H6FN" time="0.048">
   <properties/>
-  <testcase name="mainTest()" classname="org.sorting.SortingTest" time="0.053"/>
+  <testcase name="mainTest()" classname="org.sorting.SortingTest" time="0.048"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
